@@ -32,7 +32,7 @@ A modern React-based frontend application for managing AI voice agents, calls, t
 
 1. Navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd call_agent_frontend
    ```
 
 2. Install dependencies:
